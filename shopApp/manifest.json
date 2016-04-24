@@ -200,7 +200,8 @@
 					"images/2.png",
 					"images/breakfast.png",
 					"images/super.png",
-					"images/takeout.png"
+					"images/takeout.png",
+					"images/phone.png"
 				],
 				"refer": [],
 				"priority": 0
@@ -213,12 +214,15 @@
 					"fonts/mui.ttf",
 					"css/style.css",
 					"js/mui.js",
-					"css/mui.css"
+					"css/mui.css",
+					"css/font.css",
+					"css/iconfont.css",
+					"fonts/iconfont.woff",
+					"group.html"
 				],
 				"refer": [
 					"mine.html",
-					"fastStore.html",
-					"group.html"
+					"fastStore.html"
 				],
 				"priority": 0
 			},
@@ -245,7 +249,8 @@
 					"images/phone.png",
 					"js/mui.min.js",
 					"css/mui.min.css",
-					"css/group.css"
+					"css/group.css",
+					"main.html"
 				],
 				"refer": [],
 				"priority": 0
