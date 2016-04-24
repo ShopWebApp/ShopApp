@@ -1,0 +1,9 @@
+.mui-table-view-cell{
+	padding-left: 1rem;
+}
+.mui-table-view-cell:after{
+	left: .8rem;
+}
+.mui-content > div {
+    margin-top: 15px;
+}

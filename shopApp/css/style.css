@@ -1,0 +1,89 @@
+html,body{
+	font:12px "微软雅黑" ;
+	/*font-size: 12px;*/
+}
+/*Mui有自己的栅格系统,不能嵌套切存在换行,所以增加一个mui-col样式,就解决了所有问题*/
+.mui-col{
+	margin-right: -4px;
+	display: inline-block;
+}
+.icon{
+	display: inline-block;
+}
+
+
+/*颜色*/
+span.orange{
+	color: orange;
+}
+span.green{
+	color: darkgreen;
+}
+
+
+/*展示盒子*/
+.modulebox{
+	margin-top: 1rem;
+	height: 14rem;
+	box-shadow:0px 1px 5px #ccc ;
+	background-color: #FFFFFF;
+	padding: 1rem .5rem;
+}
+.modulebox .modulebox-title{
+	text-align: center;
+	font-size: 1.4rem;
+	color: #666;
+	padding-top: .5rem;
+}
+
+.modulebox .modulebox-content{
+	/*margin: 1rem .5rem;*/
+	height: 9rem;
+	background-color: rgb(247,247,247);
+}
+.modulebox-content .content-left,.modulebox-content .content-right{
+	float: left;
+	height: 9rem;
+	width: 9rem;
+	padding: .5rem;
+	/*background-color: red;*/
+}
+.modulebox-content .content-left img{
+	height: 100%;
+}
+.modulebox-content .content-right{
+	width: 13.5rem;
+	padding: 1rem 3rem;
+}
+span.icon-time{
+	width: 1.2rem;
+	height: 1.2rem;
+	background-image: url(../images/time.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: 100%;
+	line-height: 100%;
+	vertical-align: top;
+	margin: .4rem 0 .4rem  0.25rem;
+}
+.modulebox-content .content-right .time{
+	height: 2rem;
+	line-height: 2rem;
+	border: 1px solid #999999;
+	border-radius: .5rem;
+/*	margin-bottom: .3rem;*/
+}
+.modulebox-content .content-right .time .word{
+	height: 2rem;
+	line-height: 2rem;
+	display: inline-block;
+	vertical-align: top;
+	
+}
+.modulebox-content .content-right .title{
+	margin: .4rem 0;
+}
+.modulebox-content .content-right .havenum{
+	margin-top: 1.4rem;
+}
+

@@ -1,0 +1,77 @@
+.header-localtion{
+	font-size: 1rem;
+	height: 100%;
+	vertical-align: top;
+}
+.home-header,.home-content{
+	width: 100%;
+}
+.home-header-btnteam{
+	background-color: #FFFFFF;
+	height: 100px;
+	padding-top: 15px;
+	box-shadow:0px 1px 5px #ccc ;
+}
+.home-header-btnteam,.home-header-btnteam>div{
+	/*height: 120px;*/
+	text-align: center;
+}
+.icon-super,.icon-takeout,.icon-breakfast,.icon-groupbuy{
+	width: 45px;
+	height: 50px;
+	border-radius: 50px;
+	background-position: center center; 
+	background-repeat: no-repeat;
+}
+.icon-super{
+	background-color: rgb(255,158,85);
+	background-image: url(../images/super.png);
+	
+}
+.icon-takeout{
+	background-color: rgb(255,113,140);
+	background-image: url(../images/takeout.png);
+	
+}
+.icon-breakfast{
+	background-color:rgb(156,219,41) ;
+	background-image: url(../images/breakfast.png);
+	
+}
+.icon-groupbuy{
+	background-color: rgb(99,207,206);
+	background-image: url(../images/Groupbuy.png);
+	
+}
+/*----主体内容----*/
+.home-content{
+	/*margin-top: 1rem;*/
+	
+	/*border-top:1px solid #CCCCCC ;*/
+	/*border-bottom: 1px solid #CCCCCC;*/
+	
+}
+/*内容主体(众筹专区)*/
+
+/*---众筹专区end---*/
+
+/*猜你喜欢*/
+.guesslick .content-right{
+	padding: 1rem .5rem;
+}
+.guesslick .content-right .title{
+	font-size: 1.3rem;
+	color: #555;
+}
+.guesslick .content-right .word{
+	word-wrap: break-word;
+	color: #999999;
+}
+.guesslick .content-right .price{
+	margin-top: .4rem;
+	font-size:1.3rem ;
+	color: #999999;
+	
+}
+
+

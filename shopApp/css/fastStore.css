@@ -1,0 +1,91 @@
+/*---END---*/
+.faststoreBox{
+	padding: 1rem;
+	height: 9rem;
+}
+.faststoreBox .modulebox-content{
+	width: 100%;
+	height: 100%;
+}
+.faststoreBox .content-left{
+	padding: .5rem;
+	height: 100%;
+	width: 30%;
+	padding: 0;
+}
+
+.faststoreBox .content-left img{
+	width: 100%;
+	height: 100%;
+}
+.faststoreBox .content-left .state{
+	position: relative;
+	bottom: 1.8rem;
+	width: 100%;
+	height: 1.6rem;
+	line-height: 1.6rem;
+	opacity: .8;
+	text-align: center;
+	background-color: rgb(164,207,151);
+}
+.faststoreBox .content-right{
+	padding: 0 1rem;
+	height: 100%;
+	width: 70%;
+}
+.faststoreBox .content-right .title{
+	font-size: 1.3rem;
+}
+.faststoreBox .content-right  .distance{
+	float: right;
+	color: #666;
+}
+.faststoreBox .content-right .word{
+	color: #666;
+}
+.faststoreBox .content-right .type{
+	position: relative;
+	bottom: -1rem;
+}
+.faststoreBox .content-right .designate{
+	display: inline-block;
+	height: 1.4rem;
+	padding:.1rem .5rem .1rem .25rem;
+	border-radius:1rem ;
+	color: #FFFFFF;
+	text-align: center;
+}
+.designate div{
+	display: inline-block;
+	height: 1.4rem;
+	line-height: 1.4rem;
+	vertical-align: top;
+}
+.designate.daodian{
+	background-color: rgb(70,178,45);
+}
+.designate.waisong{
+	background-color: rgb(255,154,56);
+}
+.faststoreBox .content-right .designate:last-child{
+	float: right;
+	color: #999;
+}
+/*图标*/
+span.icon-daodian,span.icon-waisong{
+	margin: .2rem 0;
+	box-sizing: border-box;
+	width: 1rem;
+	height: 1rem;
+	background-repeat: no-repeat;
+	background-size: 80%;
+	background-position: center center;
+	border-radius: 1rem;
+	background-color: #FFFFFF;
+}
+span.icon-daodian{
+	background-image: url(../images/daodian.png);
+}
+span.icon-waisong{
+	background-image: url(../images/waisong.png);
+}

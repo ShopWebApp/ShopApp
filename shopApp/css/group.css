@@ -1,0 +1,33 @@
+/*----主体内容----*/
+.home-content{
+	/*margin-top: 1rem;*/
+	
+	/*border-top:1px solid #CCCCCC ;*/
+	/*border-bottom: 1px solid #CCCCCC;*/
+	
+}
+
+/*---团购商品展示---*/
+.groupbox .modulebox-title{
+	text-align: left;
+	margin-left: .5rem;
+	text-indent: 1rem;
+	border-left: 5px solid green;
+}
+.groupbox .content-right{
+	padding: 1rem .5rem;
+}
+.groupbox .content-right .title{
+	font-size: 1.3rem;
+	color: #555;
+}
+.groupbox .content-right .word{
+	word-wrap: break-word;
+	color: #999999;
+}
+.groupbox .content-right .price{
+	margin-top: .4rem;
+	font-size:1.3rem ;
+	color: #999999;
+	
+}
