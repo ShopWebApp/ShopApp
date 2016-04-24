@@ -1,9 +1,26 @@
+/*修改左边距*/
 .mui-table-view-cell{
 	padding-left: 1rem;
 }
+/*修改bottom的位置*/
 .mui-table-view-cell:after{
 	left: .8rem;
 }
 .mui-content > div {
     margin-top: 15px;
+}
+.userBox .usericon,.userBox .username{
+	float: left;
+	height: 6rem;
+}
+.userBox .usericon{
+	width: 6rem;
+	background-image: url(../images/mine_usericon.png);
+	background-size: 100%;
+	background-position:center  center;
+}
+.userBox .username{
+	padding-left: 1.5rem;
+	font: 1.4rem "微软雅黑" ;
+	line-height: 4rem;
 }
