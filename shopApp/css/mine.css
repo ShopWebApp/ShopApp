@@ -9,18 +9,69 @@
 .mui-content > div {
     margin-top: 15px;
 }
+/*用户栏*/
 .userBox .usericon,.userBox .username{
 	float: left;
 	height: 6rem;
 }
 .userBox .usericon{
 	width: 6rem;
-	background-image: url(../images/mine_usericon.png);
-	background-size: 100%;
-	background-position:center  center;
+}
+.userBox .usericon img{
+	width: 100%;
+	height: 100%;
 }
 .userBox .username{
 	padding-left: 1.5rem;
 	font: 1.4rem "微软雅黑" ;
 	line-height: 4rem;
+}
+/*功能栏*/
+.utilBox .utilicon,.utilBox .utilname{
+	margin: 0;
+	float: left;
+	height: 2.5rem;
+	line-height: 2.5rem;
+}
+.utilBox .utilicon{
+	width: 2.5rem;
+	text-align: center;
+	font-size: 1.8rem;
+	color: #FFFFFF;
+}
+.utilBox .utilname{
+	margin-left: 1rem;
+	font-size: 1.3rem;
+}
+.utilBox .utilicon img{
+	margin:.4rem 0 ;
+	width: 1.7rem;
+	height: 1.7rem;
+}
+/*背景颜色*/
+.utilicon.palered{
+	background-color: rgb(247,109,107);
+}
+.utilicon.blue{
+	background-color: rgb(76,175,227);
+}
+.utilicon.orange{
+	background-color: rgb(255,170,87);
+}
+.utilicon.purple{
+	background-color: rgb(192,102,186);
+}
+.utilicon.deepred{
+	font-size: .6rem;
+	background-image: url(../images/coupon_icon.png);
+	background-repeat: no-repeat;
+	background-size: 75%;
+	background-position: center center; 
+	background-color: rgb(206,63,59);
+}
+.utilicon.green{
+	background-color: rgb(139,227,100);
+}
+.utilicon.gray{
+	background-color: rgb(204,204,204);
 }
