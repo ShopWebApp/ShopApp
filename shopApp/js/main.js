@@ -2,13 +2,11 @@
     var subpages = ['home.html', 'group.html', 'fastStore.html', 'mine.html'];
 			var subpage_style = [
 				{top: '45px',bottom: '51px'},
-				{top: '90px',bottom: '51px'},
-				{top: '90px',bottom: '51px'},
+				{top: '45px',bottom: '51px'},
+				{top: '45px',bottom: '51px'},
 				{top: '45px',bottom: '51px'},
 			];
-			
 			var aniShow = {};
-			
 			 //创建子页面，首个选项卡页面显示，其它均隐藏；
 			mui.plusReady(function() {
 				var self = plus.webview.currentWebview();
@@ -37,6 +35,7 @@
 //				title.innerHTML = this.querySelector('.mui-tab-label').innerHTML;
 				switch(this.querySelector('.mui-tab-label').innerHTML){
 					case "首页":
+						title.style.height='44px';
 						title.innerHTML='<div class="mui-col mui-col-xs-2 header-localtion">'+
 									    	'<a>烟台<span class="mui-icon mui-icon-arrowdown"></span></a>'+
 									    '</div>'+
@@ -48,22 +47,26 @@
 					break;
 					
 					case "团购":
+						title.style.height='90px';
 						title.innerHTML='<div class="mui-input-row mui-search">'+
 		        							'<input type="search" class="mui-input-clear" placeholder="请输入关键词">'+
-		    							'</div>'+
-		    							'<div class="mui-bar">'+
-		    								'<div class="mui-col mui-col-xs-4">'+
-		    									'12'+
-		    								'</div>'+
-		    								'<div class="mui-col mui-col-xs-4">'+
-		    									'23'+
-		    								'</div>'+
-		    								'<div class="mui-col mui-col-xs-4">'+
-		    									'34'+
-		    								'</div>'+
-		    							'</div>';
+		    							'</div>'
+//		    							+
+//		    							'<div class="mui-bar">'+
+//		    								'<div class="mui-col mui-col-xs-4">'+
+//		    									'全部分类'+
+//		    								'</div>'+
+//		    								'<div class="mui-col mui-col-xs-4">'+
+//		    									'全城'+
+//		    								'</div>'+
+//		    								'<div class="mui-col mui-col-xs-4">'+
+//		    									'离我最近'+
+//		    								'</div>'+
+//		    							'</div>'
+		    							;
 					break;
 					case "快餐":
+						title.style.height='90px';
 						title.innerHTML='<div class="mui-input-row mui-search">'+
 		        							'<input type="search" class="mui-input-clear" placeholder="请输入关键词">'+
 		    							'</div>'+
@@ -80,6 +83,7 @@
 		    							'</div>';
 					break;
 					case "我的":
+						title.style.height='44px';
 						title.innerHTML=' <a class="mui-action-back mui-icon mui-icon-gear mui-pull-right"></a>'+
 		    							' <h1 class="mui-title">会员中心</h1>';
 					break;

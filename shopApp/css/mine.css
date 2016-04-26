@@ -6,8 +6,15 @@
 .mui-table-view-cell:after{
 	left: .8rem;
 }
+/*格子间的距离*/
 .mui-content > div {
     margin-top: 15px;
+}
+/* >大小 */
+.mui-navigate-right:after, .mui-push-right:after{
+	font-size: 2.2rem;
+	font-weight: bold;
+	color: rgb(102,102,102);
 }
 /*用户栏*/
 .userBox .usericon,.userBox .username{

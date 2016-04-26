@@ -1,52 +1,52 @@
 {
-	"home.html": {
-		"resources": [
-			"images/time.png",
-			"css/home.css",
-			"images/Groupbuy.png",
-			"images/2.png",
-			"images/breakfast.png",
-			"images/super.png",
-			"images/takeout.png"
-		]
-	},
-	"main.html": {
-		"resources": [
-			"js/main.js",
-			"home.html",
-			"css/main.css",
-			"fonts/mui.ttf",
-			"css/style.css",
-			"js/mui.js",
-			"css/mui.css"
-		],
-		"refer": [
-			"home.html",
-			"mine.html",
-			"fastStore.html",
-			"group.html"
-		]
-	},
-	"mine.html": {
-		"resources": [
-			"css/mine.css",
-			"js/mine.js"
-		]
-	},
-	"fastStore.html": {
-		"resources": [
-			"css/fastStore.css",
-			"images/waisong.png",
-			"images/daodian.png",
-			"images/fastStore.png"
-		]
-	},
-	"group.html": {
-		"resources": [
-			"images/phone.png",
-			"js/mui.min.js",
-			"css/mui.min.css",
-			"css/group.css"
-		]
-	}
+  "home.html": {
+    "resources": [
+      "images/time.png",
+      "css/home.css",
+      "images/Groupbuy.png",
+      "images/2.png",
+      "images/breakfast.png",
+      "images/super.png",
+      "images/takeout.png"
+    ]
+  },
+  "main.html": {
+    "resources": [
+      "js/main.js",
+      "home.html",
+      "css/main.css",
+      "fonts/mui.ttf",
+      "css/style.css",
+      "js/mui.js",
+      "css/mui.css"
+    ],
+    "refer": [
+      "home.html",
+      "mine.html",
+      "fastStore.html",
+      "group.html"
+    ]
+  },
+  "mine.html": {
+    "resources": [
+      "css/mine.css",
+      "js/mine.js"
+    ]
+  },
+  "fastStore.html": {
+    "resources": [
+      "css/fastStore.css",
+      "images/waisong.png",
+      "images/daodian.png",
+      "images/fastStore.png"
+    ]
+  },
+  "group.html": {
+    "resources": [
+      "images/phone.png",
+      "js/mui.min.js",
+      "css/mui.min.css",
+      "css/group.css"
+    ]
+  }
 }

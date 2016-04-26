@@ -2,7 +2,7 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <svg xmlns="http://www.w3.org/2000/svg">
 <metadata>
-Created by FontForge 20120731 at Fri Apr 22 18:57:16 2016
+Created by FontForge 20120731 at Mon Apr 25 20:31:26 2016
  By admin
 </metadata>
 <defs>
@@ -19,7 +19,7 @@ Created by FontForge 20120731 at Fri Apr 22 18:57:16 2016
     bbox="0 -159 1024 896"
     underline-thickness="50"
     underline-position="-100"
-    unicode-range="U+0078-E604"
+    unicode-range="U+0078-E606"
   />
 <missing-glyph horiz-adv-x="374" 
 d="M34 0v682h272v-682h-272zM68 34h204v614h-204v-614z" />
@@ -52,5 +52,19 @@ q35 0 59.5 25.5t24.5 60.5v167q0 9 -6.5 15.5t-15.5 6.5z" />
     <glyph glyph-name="uniE604" unicode="&#xe604;" 
 d="M576 416v288q0 27 -18.5 45.5t-45.5 18.5t-45.5 -19t-18.5 -45v-317q-1 -14 5 -28q7 -18 24 -29l129 -97q22 -16 48 -12.5t42 25t12.5 47.5t-25.5 42zM512 -128q-139 0 -257 68.5t-186.5 186.5t-68.5 257t68.5 257t186.5 186.5t257 68.5t257 -68.5t186.5 -186.5
 t68.5 -257t-68.5 -257t-186.5 -186.5t-257 -68.5zM512 -64q122 0 225 60t163 163t60 225t-60 225t-163 163t-225 60t-225 -60t-163 -163t-60 -225t60 -225t163 -163t225 -60z" />
+    <glyph glyph-name="uniE605" unicode="&#xe605;" 
+d="M132 516l380 -432l380 432h-760z" />
+    <glyph glyph-name="uniE606" unicode="&#xe606;" 
+d="M0 22l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1
+v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1
+l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1
+l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1
+l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1
+l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1
+l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1
+l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 2l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1
+l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1
+l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1l1 1l1 1l1 1v1
+l1 1l1 1l1 2l482 -724h-1024z" />
   </font>
 </defs></svg>
